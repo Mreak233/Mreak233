@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-qaq 呜呜呜 w 
-菜菜一只
-大概可以叫 Mreak 叭
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mreak)](https://github.com/anuraghazra/github-readme-stats)
+qaq 呜呜呜 w  
+菜菜一只  
+大概可以叫 Mreak 叭  
+  
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mreak)](https://github.com/anuraghazra/github-readme-stats)  
+  
 ↑ 指可以鞭策自己（大概
